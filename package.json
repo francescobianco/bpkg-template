@@ -1,0 +1,8 @@
+{
+  "name": "bpkg-template",
+  "version": "0.1.0",
+  "description": "BPKG Template (unofficial)",
+  "global": true,
+  "repo": "francescobianco/bpkg-template",
+  "install": "make install"
+}
